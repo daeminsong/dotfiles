@@ -1,0 +1,5 @@
+[user]
+	name = daeminsong
+	email = thesvms@icloud.com
+[core]
+	excludesfile = ~/.gitignore
