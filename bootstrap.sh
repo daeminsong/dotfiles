@@ -10,9 +10,9 @@ function sync() {
 		--exclude ".DS_Store" \
 		--exclude ".macos" \
 		--exclude "bootstrap.sh" \
-        --exclude "brewInit.sh" \
-        --exclude "brewRun.sh" \
-        --exclude ".stowrc" \
+		--exclude "brewInit.sh" \
+		--exclude "brewRun.sh" \
+		--exclude ".stowrc" \
 		--exclude "conda.sh" \
 		--exclude "README.md" \
 		--exclude "LICENSE" \
