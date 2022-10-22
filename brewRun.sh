@@ -17,6 +17,7 @@ google-chrome \
 firefox \
 iterm2 \
 the-unarchiver \
+bartender \
 alfred@4.6.1 \
 
 # Communication
