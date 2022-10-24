@@ -32,3 +32,14 @@ defaults write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
 
 # Don’t display the annoying prompt when quitting iTerm
 defaults write com.googlecode.iterm2 PromptOnQuit -bool false
+
+
+###############################################################################
+# iCloud                                                                      #
+###############################################################################
+
+# a symlink for iCloud
+ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs ~/iCloud
+
+# a symlink for .env
+ln -s ~/iCloud/terminal/.env ~/.env
