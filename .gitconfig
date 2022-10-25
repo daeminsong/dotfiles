@@ -3,3 +3,6 @@
 	email = thesvms@icloud.com
 [core]
 	excludesfile = ~/.gitignore
+
+[init]
+	defaultBranch = main
