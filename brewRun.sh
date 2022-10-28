@@ -7,6 +7,7 @@ git \
 gh \
 mas \
 stow \
+wget \
 
 ### Brew cask list
 
@@ -18,7 +19,7 @@ firefox \
 iterm2 \
 the-unarchiver \
 bartender \
-alfred@4.6.1 \
+# alfred@4.6.1 \
 
 # Communication
 brew install --cask \
@@ -43,7 +44,7 @@ cleanshot \
 ### Brew cask list end
 
 # miniconda init zsh instaed of bash
-~/../../opt/homebrew/miniconda3/bin/conda init zsh
+conda init zsh
 
 # App store 
 mas install 424389933   # Final Cut Pro
