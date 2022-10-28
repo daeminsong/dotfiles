@@ -36,6 +36,7 @@ rstudio \
 brew install --cask \
 notion \
 dropbox \
+cleanshot \
 
 
 
